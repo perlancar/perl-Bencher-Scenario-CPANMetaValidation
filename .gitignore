@@ -2,3 +2,4 @@ Bencher-Scenario-CPANMetaValidation-*
 .build
 *~
 nytprof*
+.DS_Store
